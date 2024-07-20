@@ -603,4 +603,8 @@
     <string name="other_settings">Other options</string>
     <string name="quick_settings">Quick Settings</string>
 
+    <!-- Desktop Mode Settings -->
+    <string name="desktop_mode_pc_title">Desktop Mode</string>
+    <string name="desktop_mode_pc_summary">Emulate device to PC or external display</string>
+
 </resources>
