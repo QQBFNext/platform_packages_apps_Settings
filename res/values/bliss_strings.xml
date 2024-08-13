@@ -583,7 +583,7 @@
 
     <!-- Other Fragment -->
     <string name="miscellaneous_settings">Разное</string>
-    <string name="other_settings">Другие варианты</string>
+    <string name="other_settings">Другие настройки</string>
     <string name="quick_settings">Быстрые настройки</string>
 
     <!-- Desktop Mode Settings -->
